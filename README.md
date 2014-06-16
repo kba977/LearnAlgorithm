@@ -13,5 +13,5 @@ The means of the number of my projects is as followed:
 - M-N : Exercise M-N
 
 ------------------------------------------
-
-![The referenced book](./others/book.jpg)
+<img height="300" width="250" src="./others/book.jpg">
+<!-- ![The referenced book](./others/book.jpg) -->
