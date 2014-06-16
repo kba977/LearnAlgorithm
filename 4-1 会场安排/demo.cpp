@@ -38,7 +38,7 @@ int greedy(vector <point> x)
 		else
 			curr--;
 
-		if((i == n-1 || x[i].t<x[i+1].t) && curr>sum)		// 处理x[i] = x[i+1]的情况
+		if((i == n-1 || x[i].t < x[i+1].t) && curr > sum)		// 处理x[i] = x[i+1]的情况
 			sum = curr;
 	}
 	return sum;
