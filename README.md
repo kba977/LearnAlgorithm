@@ -1,6 +1,6 @@
 <img height="200" width="150" src="./others/book.jpg" align="right">
 
-This is project for myself to learn the Algorithm.
+This is a project for myself to learn the Algorithm.
 
 If you like, you can get it freedom. **: )**
 
