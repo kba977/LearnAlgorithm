@@ -8,6 +8,10 @@ If you like, you can get it freedom. **: )**
 The book I referenced is **Design and analysis of computer algorithms**. 
 
 
+
+
+
+
 --------------------------------------------
 
 The means of the number of my projects is as followed:
