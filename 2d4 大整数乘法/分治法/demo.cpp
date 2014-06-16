@@ -33,8 +33,8 @@ int IntegerMultiply(int X, int Y, int N)
 
 void main()
 {
-	int x = 1234123451234556;
-	int y = 4321543215432165;
+	int x = 1234;
+	int y = 4321;
 	cout << "x * y = " << IntegerMultiply(x, y, 4) << endl;
 	cout << "x * y = " << x * y << endl;
 }
