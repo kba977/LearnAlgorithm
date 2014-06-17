@@ -10,7 +10,7 @@ void main()
 {
 	int x = 2;
 	int array[] = {3,1,2,5,6};
-	cout << "½á¹ûÊÇ: ";
+	cout << "The answer is: ";
 	cout << BinarySearch(array,x,4) << endl;
 }
 
