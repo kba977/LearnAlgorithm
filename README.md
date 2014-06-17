@@ -1,4 +1,4 @@
-<img height="200" width="150" src="./others/book.jpg" align="right">
+<img height="200" width="150" src="./images/book.jpg" align="right">
 
 This is a project for myself to learn the Algorithm.
 
