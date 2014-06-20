@@ -13,7 +13,7 @@ The book I referenced is **Design and analysis of computer algorithms**.
 --------------------------------------------
 
 The means of the number of my projects is as followed:
-
+ 
 - MdN : Chapter M section N
 - MdN.n : Example M-n
 - M-N : Exercise M-N
